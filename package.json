@@ -1,0 +1,15 @@
+{
+  "name": "my-electron-app",
+  "version": "1.0.0",
+  "description": "Hello World project for Electron",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron .",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Kyle Peterson",
+  "license": "UNLICENSED",
+  "devDependencies": {
+    "electron": "^31.0.1"
+  }
+}
